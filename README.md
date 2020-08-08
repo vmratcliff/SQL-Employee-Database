@@ -10,17 +10,17 @@ The following were used for this project:
 3. Data Analysis
 
 
-#### Data Modeling
+## Data Modeling
 
 Inspect the CSVs and sketch out an Entity Relationship Diagram (ERD) of the tables. 
 
-#### Data Engineering
+## Data Engineering
 
 * Use the information to create a table schema for each of the six CSV files. Specify data types, primary keys, foreign keys, and other constraints.
 
 * Import each CSV file into the corresponding SQL table.
 
-#### Data Analysis
+## Data Analysis
 
 Perform SQL queries to answer the following questions:
 
