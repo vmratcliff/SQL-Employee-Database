@@ -40,7 +40,7 @@ Perform SQL queries to answer the following questions:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-Examples of Queries and Results:
+## Examples of Queries and Results:
   ![query 4](Images/Query2.png)
   
   ![query 6](Images/Query1.png)
